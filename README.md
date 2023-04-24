@@ -1,2 +1,3 @@
 # Todo-List-App
-Build a todo list app using Node.js and  express.js
+
+Built a todo list using React, Node, Express, MongoDB | Redux
